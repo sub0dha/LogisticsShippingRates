@@ -59,12 +59,6 @@ cd LogisticsShippingRates
 
 Add example usage, commands, or API notes here.
 
-## License
-
-Add license information here (e.g., MIT). If a LICENSE file exists, reference it:
-
-This project is licensed under the [MIT License](LICENSE) — see the LICENSE file for details.
-
 ## Contact
 
 Project maintainer: sub0dha — https://github.com/sub0dha

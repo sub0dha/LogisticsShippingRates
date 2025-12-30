@@ -1,5 +1,21 @@
 # LogisticsShippingRates
 
+Short description: A small utilities/repository for working with logistics and shipping rates.  
+(Replace this line with a one-sentence summary of the project.)
+
+## Table of Contents
+
+- [About](#about)
+- [Contributing](#contributing)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contact](#contact)
+
+## About
+
+Add a brief description of the repository here: its purpose, main features, and who it's for.
+
 ## Contributing
 
 Please consider the following guidelines when contributing to this project:
@@ -23,3 +39,32 @@ Please consider the following guidelines when contributing to this project:
    - By contributing, you agree to license your contributions under the project's license. If in doubt, contact the maintainers.
 
 Thank you for contributing!
+
+## Installation
+
+Add installation steps here. Example:
+
+```bash
+# clone the repo
+git clone https://github.com/sub0dha/LogisticsShippingRates.git
+
+# change directory
+cd LogisticsShippingRates
+
+# install dependencies (example)
+# npm install
+```
+
+## Usage
+
+Add example usage, commands, or API notes here.
+
+## License
+
+Add license information here (e.g., MIT). If a LICENSE file exists, reference it:
+
+This project is licensed under the [MIT License](LICENSE) — see the LICENSE file for details.
+
+## Contact
+
+Project maintainer: sub0dha — https://github.com/sub0dha
